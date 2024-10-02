@@ -6,7 +6,8 @@
 :source-highlighter: prettify
 :project_id: gs-securing-web
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/Malu44/gs-securing-web)
+image::https://gitpod.io/button/open-in-gitpod.svg[Logo,link=https://gitpod.io/#https://github.com/Malu44/gs-securing-web]
+
 
 This guide walks you through the process of creating a simple web application with
 resources that are protected by Spring Security.
